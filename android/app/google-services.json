@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824421706310",
+    "firebase_url": "https://doctorcamp-5fee2.firebaseio.com",
+    "project_id": "doctorcamp-5fee2",
+    "storage_bucket": "doctorcamp-5fee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824421706310:android:a14b9296a9d906096bb847",
+        "android_client_info": {
+          "package_name": "com.example.docto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824421706310-ssqd589u7r4ctpahupgbr0lvejf9rgu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Pr9NNpPl59MDsrIduMlaMWH1zJNMopw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824421706310-ssqd589u7r4ctpahupgbr0lvejf9rgu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
